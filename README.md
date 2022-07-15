@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @eliasmunizdev
-- 👀 I’m interested in FrontEnd Development
-- 🌱 I’m currently learning ReactJS & ReactNative
-- 💞️ I’m looking to collaborate on OpenSource projects 
+- 👋 Hi, I’m @eliasmunizdev. I work as Product Designer & FrontEnd dev at EduTech.
+- 💼 This is my personal portfolio.
+- 👀 I’m interested in FrontEnd Development & Product Design.
 - 📫 How to reach me eliasmuniz.dev@gmail.com
 
 <!---
