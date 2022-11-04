@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eliasmunizdev. I work as Product Designer & FrontEnd dev at EduTech.
+- 👋 Hi, I’m @eliasmunizdev. I work as Product Designer & FrontEnd dev.
 - 💼 This is my personal portfolio.
 - 👀 I’m interested in FrontEnd Development & Product Design.
 - 📫 How to reach me eliasmuniz.dev@gmail.com
